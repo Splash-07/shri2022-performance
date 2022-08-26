@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea26deb3-f0d0-486b-8891-0392f9af99e3" name="Changes" comment="perf: deleted some unused css and remove huge blocking js script from head">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendors/bootstrap.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendors/react-with-dom.js" beforeDir="false" />
@@ -42,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661493147903</updated>
-      <workItem from="1661493149230" duration="2516000" />
+      <workItem from="1661493149230" duration="2757000" />
     </task>
     <task id="LOCAL-00001" summary="perf: deleted some unused css and remove huge blocking js script from head">
       <created>1661495220154</created>
