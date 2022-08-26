@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661493147903</updated>
-      <workItem from="1661493149230" duration="8300000" />
+      <workItem from="1661493149230" duration="8718000" />
     </task>
     <task id="LOCAL-00001" summary="perf: deleted some unused css and remove huge blocking js script from head">
       <created>1661495220154</created>

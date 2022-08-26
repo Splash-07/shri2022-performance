@@ -470,7 +470,7 @@ html, body {
 }
 
 .event__icon_schedule {
-    background-image: url("data:image/svg+xml;base64, " icon_scheduled.svg);
+    background-image: url("data:image/svg+xml;base64, PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBmaWxsPSIjRjhGOEY4IiBkPSJNLTkyNS0yNTBINDQxdjc2OEgtOTI1eiIvPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyIDIpIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSIxMCIvPjxwYXRoIG9wYWNpdHk9Ii4zIiBkPSJNMTAgNHY2bDMgMyIvPjwvZz48L2c+PC9zdmc+");
 }
 
 .event__title {
