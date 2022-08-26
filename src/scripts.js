@@ -10,6 +10,7 @@
         const list = Array.from(tabs).map(node => node.dataset.id);
         const select = node.querySelector('.section__select');
 
+
         function selectTab(newId) {
             const newTab = node.querySelector(`.section__tab[data-id=${newId}]`);
             const newPanel = node.querySelector(`.section__panel[data-id=${newId}]`);

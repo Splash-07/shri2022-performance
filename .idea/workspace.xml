@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a41af0-2907-41d9-a8ba-34d75cc7af60" name="Changes" comment="perf: converted png to webp with decreased quality (90q)">
-      <change afterPath="$PROJECT_DIR$/docs/assets/bg@2x80q.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/arrow-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg@2x.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bg@2x90q.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/cloud-drizzle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_list_m@1x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_scheduled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_sun.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_sun_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_temperature.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icon_temperature_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/lato.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+    <list default="true" id="14a41af0-2907-41d9-a8ba-34d75cc7af60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/arrow-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/arrow-down.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bg@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/bg@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bg@2x.webp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/bg@2x.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bg@2x90q.webp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/bg@2x90q.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/cloud-drizzle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/cloud-drizzle.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_list_m@1x.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_list_m@1x.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_scheduled.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_scheduled.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_sun.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_sun.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_sun_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_sun_2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_temperature.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_temperature.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon_temperature_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/icon_temperature_2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/lato.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/lato.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/selectTab.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selectTab.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/programming/shri/task-perfomance/docs/assets",
+    "last_opened_file_path": "D:/programming/shri/task-perfomance",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "vue.rearranger.settings.migration": "true"
@@ -78,12 +48,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea26deb3-f0d0-486b-8891-0392f9af99e3" name="Changes" comment="" />
+      <changelist id="14a41af0-2907-41d9-a8ba-34d75cc7af60" name="Changes" comment="" />
       <created>1661493147903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661493147903</updated>
       <workItem from="1661493149230" duration="9744000" />
+      <workItem from="1661538948811" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="perf: deleted some unused css and remove huge blocking js script from head">
       <created>1661495220154</created>
