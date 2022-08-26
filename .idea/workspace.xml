@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a41af0-2907-41d9-a8ba-34d75cc7af60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/assets/bg@2x.avif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/bg@2x80q.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/bg@2x90q.avif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/bg@2x80q.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/bg@2x90q.avif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/programming/shri/task-perfomance",
+    "last_opened_file_path": "D:/programming/shri/task-perfomance/docs/assets",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "vue.rearranger.settings.migration": "true"
@@ -54,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661493147903</updated>
       <workItem from="1661493149230" duration="9744000" />
-      <workItem from="1661538948811" duration="298000" />
+      <workItem from="1661538948811" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary="perf: deleted some unused css and remove huge blocking js script from head">
       <created>1661495220154</created>
